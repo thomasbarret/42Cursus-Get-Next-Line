@@ -120,13 +120,3 @@ Hello, this is the first line.
 This is the second line.
 The third line is here.
 ```
-
----
-
-## Contact
-
-For any inquiries, feel free to reach out:  
-**[Your Name or GitHub Handle]**  
-- [Your Contact Information]  
-
-Good luck and happy coding! 🎉
